@@ -1,4 +1,6 @@
 # Disaster Response Pipeline Project
+A project in which analyse the messages that are recieved during the time of a disaster and categorize them into different categories such as hospitals,firs-aid,infrastructure etc thereby segregating a message into a number of categories
+
 
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
